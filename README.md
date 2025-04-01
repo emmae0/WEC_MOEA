@@ -1,4 +1,4 @@
-# WEC_MOEA
+# Multi-objective evolutionary algorithm for optimising the geometry of a top-hinged wave energy converter
 These are the codes that were used to run simulations for Edwards et al, 'The effect of device geometry on the performance of a wave energy converter'
 
 MOEA_control.py
