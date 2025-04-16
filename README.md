@@ -1,6 +1,8 @@
 # Multi-objective evolutionary algorithm for optimising the geometry of a top-hinged wave energy converter
 These are the codes that were used to run simulations for Edwards et al, 'The effect of device geometry on the performance of a wave energy converter'
 
+
+
 MOEA_control.py
 -	This file is how the multi-objective optimisations are run
 -	In this file, you specify the possible values of the geometric parameters you want to consider
@@ -85,4 +87,6 @@ make_frc.py
 
 make_frc_alform_1.py
 -	code makes the ‘.frc’ file for WAMIT, which specified certain options for outputs etc. 
--	Note that we just used WAMIT to find the hydrodynamic coefficients, not the motions etc 
+-	Note that we just used WAMIT to find the hydrodynamic coefficients, not the motions etc
+
+Note that WAMIT is necessary for these codes, so this Github is not setup as a standalone code with a working example on its own.
