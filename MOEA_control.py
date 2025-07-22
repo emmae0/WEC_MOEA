@@ -62,9 +62,9 @@ ulen = 1
 IALTFRC = 2
 
 ### incident wave period, frequency, wavenumber
-T = 8
+T = 
 omega = 2*pi/T
-k = 6.28189E-2
+k = 
 
 from MOEA import MOEA
 
