@@ -43,17 +43,6 @@ def calculate_xCB_and_zCB(geom_vector):
   return x_CB,z_CB
 
 
-#s1 = 3
-#r2 = 3
-#r1 = 3
-#h = 4
-#l = 6
-#a2 = 0
-#b2 = 0 #-0.5
-
-#geom_vector_test = [s1,r2,r1,h,l,a2,b2]
-
-#calculate_surface_area(geom_vector_test)
 
 
   
