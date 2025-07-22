@@ -30,7 +30,7 @@ pop_save_filename = '.csv'
 show_opt_plots = 'no'
 
 # vertical center of gravity. Note that we always had it as -5
-zCG = -5
+zCG = 
 
 # PTO spring (note: we always had it set to 0)
 k_PTO = 0
