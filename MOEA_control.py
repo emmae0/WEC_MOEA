@@ -41,7 +41,7 @@ modes = '0 0 0 0 1 0'
 # incident angles
 betas = [0]
 # water depth
-water_depth = 85
+water_depth = 
 # directory for where the WAMIT files will be saved
 dir_name = 
 # water density
