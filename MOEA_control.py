@@ -29,7 +29,7 @@ pop_save_filename = '.csv'
 # This is a flag for if you want to show plots to visualise the optimisation
 show_opt_plots = 'no'
 
-# vertical center of gravity. Note that we always had it as -5
+# vertical center of gravity.
 zCG = 
 
 # PTO spring (note: we always had it set to 0)
