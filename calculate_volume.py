@@ -30,17 +30,4 @@ def calculate_volume(geom_vector):
   return volume
 
 
-#s1 = 3
-#r2 = 3
-#r1 = 1
-#h = 4
-#l = 6
-#a2 = 0
-#b2 = -0.5
-
-#geom_vector_test = [s1,r2,r1,h,l,a2,b2]
-
-#calculate_volume(geom_vector_test)
-
-
   
